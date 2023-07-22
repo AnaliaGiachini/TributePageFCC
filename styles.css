@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+  padding-top: 30px;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  width: 75%;
+  margin: auto;
+}
+
+#img-caption {
+  text-align: center;
+  padding-top: 20px;
+}
+
+#tribute-info p {
+  font-size: 25px;
+  padding-top: 50px;
+}
+
+#tribute-info {
+  width: 50%;
+  margin: auto;
+}
+
+#tribute-info ul {
+  padding-top: 50px;
+  font-size: 20px;
+}
+
+#memory {
+  font-size: 5px;
+  text-align: left;
+}
+
+#text-tribute {
+  margin-left: 200px;
+  margin-bottom: 30px;
+}
+
+ul>li {
+  margin-bottom: 10px;
+}
